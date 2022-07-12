@@ -1,0 +1,20 @@
+div>h1 {
+    background-color: aqua;
+}
+
+b {
+    background-color: brown;
+}
+
+.list {
+    background-color: blueviolet;
+}
+
+#li {
+    background-color: indianred;
+}
+
+.class1,
+.class2 {
+    background-color: darkolivegreen;
+}
